@@ -1,0 +1,19 @@
+# Compilados
+*.exe
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados sensíveis
+config_email.json
+
+# PyInstaller output
+build/
+dist/
+
+# Logs
+*.log
+*.txt
